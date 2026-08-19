@@ -3,6 +3,9 @@
 
 A responsive clone of the Netflix landing page built using HTML and CSS. The project focuses on recreating the layout, styling, and responsive behavior of the official Netflix homepage while following modern frontend development practices.
 
+## Live Demo
+
+🔗 [View Live Project](https://luminous-dolphin-76fa88.netlify.app/)
 ## Features
 
 - Responsive design for desktop and mobile devices
